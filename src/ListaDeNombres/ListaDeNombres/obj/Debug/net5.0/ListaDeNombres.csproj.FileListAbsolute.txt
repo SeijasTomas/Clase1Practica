@@ -1,0 +1,16 @@
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\bin\Debug\net5.0\ListaDeNombres.exe
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\bin\Debug\net5.0\ListaDeNombres.deps.json
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\bin\Debug\net5.0\ListaDeNombres.runtimeconfig.json
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\bin\Debug\net5.0\ListaDeNombres.runtimeconfig.dev.json
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\bin\Debug\net5.0\ListaDeNombres.dll
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\bin\Debug\net5.0\ref\ListaDeNombres.dll
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\bin\Debug\net5.0\ListaDeNombres.pdb
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\obj\Debug\net5.0\ListaDeNombres.csprojAssemblyReference.cache
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\obj\Debug\net5.0\ListaDeNombres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\obj\Debug\net5.0\ListaDeNombres.AssemblyInfoInputs.cache
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\obj\Debug\net5.0\ListaDeNombres.AssemblyInfo.cs
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\obj\Debug\net5.0\ListaDeNombres.csproj.CoreCompileInputs.cache
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\obj\Debug\net5.0\ListaDeNombres.dll
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\obj\Debug\net5.0\ref\ListaDeNombres.dll
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\obj\Debug\net5.0\ListaDeNombres.pdb
+C:\Users\tomi_\source\repos\ListaDeNombres\ListaDeNombres\obj\Debug\net5.0\ListaDeNombres.genruntimeconfig.cache
